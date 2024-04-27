@@ -5,7 +5,8 @@ tsup.config.ts
 next-env.d.ts 
 .eslintrc.json
 app
-tailwind.config.ts 
-postcss.config.js
+# tailwind.config.ts 
+# postcss.config.js
 next-env.d.ts
 .next
+components.json
